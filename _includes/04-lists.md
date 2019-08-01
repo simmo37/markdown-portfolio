@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favourite things
+<li>Programming</li>
+<li>Web design</li>
+<li>Gaming</li>
